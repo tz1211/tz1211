@@ -1,4 +1,8 @@
-### Hi there 👋
+### Yan Zhou (Terry) 👀 
+- 🤓 1st Year BSc. Politics and Data Science student at London School of Economics and Political Science 
+- 💬 Programming languages: 
+  - Python (advanced)
+  - R (beginner)
 
 <!--
 **tz1211/tz1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
