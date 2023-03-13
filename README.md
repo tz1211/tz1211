@@ -1,8 +1,12 @@
-### Yan Zhou (Terry) 👀 
+# Yan Zhou (Terry) 👀 
 - 🤓 1st Year BSc. Politics and Data Science student at London School of Economics and Political Science 
 - 💬 Programming languages: 
   - Python (advanced)
   - R (beginner)
+
+# Currently working on... 
+- Collaborating with a team of 4 to use machine learning algorithm to predict the probability of social unrest 
+- Collaborating with a team of 3 to use machine learning algorithm to predict the outcome of NBA Most Valuable Player (MVP) award 
 
 <!--
 **tz1211/tz1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
