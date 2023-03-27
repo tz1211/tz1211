@@ -4,9 +4,12 @@
   - Python (advanced)
   - R (beginner)
 
-# Currently working on... 
+# Currently working on... 💦
 - Collaborating with a team of 4 to use machine learning algorithm to predict the probability of social unrest 
 - Collaborating with a team of 3 to use machine learning algorithm to predict the outcome of NBA Most Valuable Player (MVP) award 
+
+# What's next? 💨 
+- Incoming data science intern at the Tecsa Group over spring break 
 
 <!--
 **tz1211/tz1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
