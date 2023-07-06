@@ -14,7 +14,7 @@
 - 
 
 # Past Projects 🗂️ 
-- Involved in a project that uses machine learning algorithms to estimate the probability and risk of failure of electric circuits 
+- Involved in a project that uses machine learning algorithms to estimate the probability of outages and risk of failure of electric circuits 
 - Created a reusable codebase capable of automatically performing RFM segmentation and related operations on retail transaction data 
 - [LSE Data Science Society project](https://github.com/ShuklaPriyam/Data_Revolutions): Using machine learning algorithm to predict the probability of social unrest
 - [LSE Data for Data Science Unit Final Project](https://github.com/tz1211/DS105L-Project-404-Not-Found): Using machine learning algorithm to predict the outcome of NBA Most Valuable Player (MVP) award 
