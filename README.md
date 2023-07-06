@@ -1,7 +1,8 @@
 # Yan Zhou (Terry) 👀 
-- 🤓 1st Year BSc. Politics and Data Science student at London School of Economics and Political Science 
+- 🤓 1st Year BSc. Politics and Data Science student at London School of Economics and Political Science
 - 💬 Programming languages: 
   - Python (advanced)
+  - SQL 
   - R (beginner)
 
 # Currently working on... 💦
