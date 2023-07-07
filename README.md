@@ -9,7 +9,7 @@
 
 # Currently working on... 💦
 - Involved in a project that aims to optimise promotional campaign targeting
-- Research assistant to a project exploring the potential use of large language model in analysing sentiments in political speeches 
+- Research assistant to a project exploring the potential use of Large Language Models (LLMs) in analysing sentiments in political speeches 
 
 # What's next? 💨 
 - 
