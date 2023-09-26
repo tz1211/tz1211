@@ -1,14 +1,13 @@
 # Yan Zhou (Terry) 👀 
 - 🎓 2nd Year BSc. Politics and Data Science student at London School of Economics and Political Science
-- 💼 Interning data science consultant at The Tecsa Group 
 - 📊 Research assistant at LSE Data Science Institute 
+- 💼 Intern data science consultant at The Tecsa Group 
 - 💬 Programming languages: 
   - Python (advanced)
   - SQL (intermediate)
   - R (beginner)
 
 # Currently working on... 💦
-- Involved in a project that aims to optimise promotional campaign targeting
 - Research assistant to a project exploring the potential use of Large Language Models (LLMs) in analysing sentiments in political speeches
 - [FPL-Moneyball](https://github.com/tz1211/FPL-Moneyball): Model to optimise team construction in Fantasy Premier League 
 
@@ -16,7 +15,8 @@
 - 
 
 # Past Projects 🗂️ 
-- Involved in a project that uses machine learning algorithms to estimate the probability of outages and risk of failure of electric circuits 
+- Models for targeted promotional campaigns for retailers 
+- XGBoost model that optimises maintenance efforts by estimating the probability of outages and risk of failure of electric circuits 
 - Created a reusable codebase capable of automatically performing RFM segmentation and related operations on retail transaction data 
 - [LSE Data Science Society project](https://github.com/ShuklaPriyam/Data_Revolutions): Using machine learning algorithm to predict the probability of social unrest
 - [LSE Data for Data Science Unit Final Project](https://github.com/tz1211/DS105L-Project-404-Not-Found): Using machine learning algorithm to predict the outcome of NBA Most Valuable Player (MVP) award 
