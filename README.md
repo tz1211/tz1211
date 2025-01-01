@@ -1,7 +1,7 @@
 # Yan Zhou (Terry) 👀 
 - 🎓 Final Year BSc. Politics and Data Science student at the London School of Economics and Political Science
 - 📊 Research assistant at LSE Data Science Institute 
-- 💼 Intern data science consultant at The Tecsa Group 
+- 💼 Intern data scientist at The Tecsa Group 
 - 💬 Programming languages: 
   - Python (advanced)
   - R (advanced)
@@ -9,11 +9,11 @@
   - SQL (SQLite, PostgreSQL)
 
 # Currently working on... 💦
-- **TPI-AI**: Adapting our RAG solution for the LSE chatbot (ChatLSE) to create an agent for monitoring companies' and governments' commitments to net-zero transition based on their climate policies 
+- **TPI-AI**: Adapting our RAG solution for the LSE chatbot (ChatLSE) to create an agent for monitoring companies' and governments' commitments to net-zero transition based on their climate policies
 - [FPL-Moneyball](https://github.com/tz1211/FPL-Moneyball): Model to optimise team construction in Fantasy Premier League 
 
 # What's next? 💨 
-- Looking for internship/graduate programme in data science, AI, and software development 
+- Looking for internship/graduate programme in data science, AI, and software engineering 
 
 # Past Projects 🗂️ 
 - [ChatLSE](https://github.com/LSE-DSI/chat-lse): Developing an LLM chat bot for LSE using Retrieval-Augmented Generation (RAG)
