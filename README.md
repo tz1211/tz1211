@@ -1,8 +1,8 @@
 # Yan Zhou (Terry) 👀 
-- 🎓 SM Data Science at Harvard 
-- 🎓 BSc. Politics and Data Science student at the London School of Economics and Political Science
-- 📊 Research assistant at LSE Data Science Institute 
-- 💼 Former Intern data scientist at The Tecsa Group 
+- 🎓 SM Data Science @ Harvard 
+- 🎓 BSc. Politics and Data Science @ LSE
+- 📊 Research assistant @ LSE Data Science Institute 
+- 💼 Former Intern data scientist @ The Tecsa Group 
 - 💬 Programming languages: 
   - Python (advanced)
   - R (advanced)
