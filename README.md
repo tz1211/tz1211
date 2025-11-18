@@ -1,7 +1,8 @@
 # Yan Zhou (Terry) 👀 
 - 🎓 MS Data Science @ Harvard 
 - 🎓 BSc Politics and Data Science @ LSE
-- 🔬 Student research @ AI4LIFE Lab, Harvard John A. Paulson School of Engineering and Applied Sciences 
+- 🔬 Student researcher @ ML Foundations Group, Harvard John A. Paulson School of Engineering and Applied Sciences 
+- 🔬 Student researcher @ AI4LIFE Lab, Harvard John A. Paulson School of Engineering and Applied Sciences 
 - 📊 Former research assistant @ LSE Data Science Institute 
 - 💼 Former intern data scientist @ The Tecsa Group 
 - 💬 Programming languages: 
@@ -11,12 +12,12 @@
   - SQL 
 
 # Currently working on... 💦
-- Mechanistic interpretability research: Supervised by Professor Hima Lakkaraju, focusing on mechanistic interpretability with AI safety-related applications. Specifically, I am looking at using probing to understand persona vectors in large language models, which may shed light onto certain safety-related behaviours such as deception, hallucination and sycophancy.
+- Model Compression and Knowledge Distillation. 
+- Mechanistic interpretability research: Focusing on using probing and activation steering techniques to influence model chain of thought. 
 - Surviving Harvard... 🤓
 
 # What's next? 💨 
 - Looking for research fellowships on AI interpretability, safety, and alignment. 
-- Looking for internship in data science, MLE, and software engineering. 
 
 # Past Projects 🗂️ 
 - **TPI-AI**: Adapting our RAG solution for the LSE chatbot (ChatLSE) to create an agent for monitoring companies' and governments' commitments to net-zero transition based on their climate policies. 
