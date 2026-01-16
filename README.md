@@ -20,7 +20,7 @@
 - Looking for research fellowships in AI interpretability, safety, and alignment. 
 
 # Past Projects 🗂️ 
-- [Are Personas All You Need? Linearity, Interference, and Multi-Persona Dynamics with Persona Vectors](https://github.com/tz1211/multi-persona-dynamics): Evaluated the reliability of persona vectors as low-dimensional alignment tools for modelling behavioural traits.
+- [Are Personas All You Need? Stress-Testing Persona Vectors as Alignment Tools](https://github.com/tz1211/multi-persona-dynamics): Evaluated the reliability of persona vectors as low-dimensional alignment tools for modelling behavioural traits.
 - [DataDetox](https://github.com/kushal-chat/AC215_datadetox): Agentic AI system that traces model lineage and training data by piecing together disparate data sources from Huggingface and arXiv, improving AI safety and model governance by increasing transparency, allowing ML practitioners to easily identify a model’s upstream dependencies and prevent any risks from propagating downstream.
 - [ChatLSE](https://github.com/LSE-DSI/chat-lse): Developing an LLM chat bot for LSE using Retrieval-Augmented Generation (RAG). 
 - **Discordia**: Built a machine learning framework to identify factors that drive MP rebellions in UK Parliament.
