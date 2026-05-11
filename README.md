@@ -12,12 +12,12 @@
   - SQL 
 
 # Currently working on... 💦
-- Model Compression and Knowledge Distillation. 
-- Mechanistic interpretability research: Focusing on using activation steering techniques to influence reasoning model's chain of thought. 
+- Mechanistic interpretability
+- AI Safety 
+- Knowledge Distillation. 
 - Surviving Harvard... 🤓
 
 # What's next? 💨 
-- Looking for research fellowships in AI interpretability, safety, and alignment. 
 
 # Past Projects 🗂️ 
 - [Are Personas All You Need? Stress-Testing Persona Vectors as Alignment Tools](https://github.com/tz1211/multi-persona-dynamics): Evaluated the reliability of persona vectors as low-dimensional alignment tools for modelling behavioural traits.
