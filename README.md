@@ -1,8 +1,9 @@
 # Yan Zhou (Terry) 👀 
 - 🎓 MS Data Science @ Harvard 
 - 🎓 BSc Politics and Data Science @ LSE
-- 🔬 AI researcher @ ML Foundations Group, Harvard John A. Paulson School of Engineering and Applied Sciences 
-- 🔬 AI researcher @ AI4LIFE Lab, Harvard John A. Paulson School of Engineering and Applied Sciences 
+- 🔬 Researcher @ CRISP Group, Kempner Institute at Harvard 
+- 🔬 Researcher @ ML Foundations Group, Harvard School of Engineering and Applied Sciences 
+- 🔬 Researcher @ AI4LIFE Lab, Harvard School of Engineering and Applied Sciences 
 - 📊 Former research assistant @ LSE Data Science Institute 
 - 💼 Former intern data scientist @ The Tecsa Group 
 - 💬 Programming languages: 
